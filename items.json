@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Cat Dewitcher Spray",
+        "description": "Is your cat working its dark magic against you? With cat dewitcher spray you can fight back, and dewitch that cat!",
+        "_id": 1,
+        "price": 2.50
+    },
+    {
+        "name": "Chicken Pee Yew",
+        "description": "Do your chickens come in smelling like a barnyard? With chicken pee yew your chickens can smell like fresh sunlight or a mountain breeze! (coming soon: potpouri)",
+        "_id": 2,
+        "price": 4.25
+    },
+    {
+        "name": "Swole Dog Biscuits",
+        "description": "Is your dog looking scrawny? do the other animals laugh when he goes on guard duty? With swole dog buiscuits your dog will build up - and radiate head of the pack!",
+        "_id": 3,
+        "price": 3.75
+    },
+    {
+        "name": "Quick Nest",
+        "description": "Is your bird struggling to build to code? Do his nests sometimes fall off trees? With quick nest he can have a modern, up to date nest, in a matter of minutes",
+        "_id": 4,
+        "price": 5.00
+    },
+    {
+        "name": "Lizard Lifts",
+        "description": "Can your lizard only do push-ups because he has no exercise equipment? With lizard lifts he can really work out!",
+        "_id": 5,
+        "price": 4.75
+    },
+    {
+        "name": "Fish Bubbles",
+        "description": "Looking for something different for your fish bowl? Does that castle and plastic seaweed seem old and tired? Try fish bubbles -now with a newer, safer formula! Comes in may popular colors.",
+        "_id": 6,
+        "price": 1.75
+    },
+    {
+        "name": "Cat Color",
+        "description": "Is your cat a boring gray, yellow, white or black? Spray on some cat color and liven that cat up!",
+        "_id": 7,
+        "price": 3.50
+    },
+    {
+        "name": "Doggy Patches",
+        "description": "Don't let your dog be a prisoner to the shame of mange. Doggy Patches are made of real animal hair and come in a variety of lengths. They blend right into your dog's coat for a natural look.",
+        "_id": 8,
+        "price": 3.55
+    },
+    {
+        "name": "Cricket Tunes",
+        "description": "Tired of those crickets chirping the same old songs, night after night? With cricket tunes you can expand their repetoir from the oldies but goodies to the most current hits!",
+        "_id": 9,
+        "price": 4.25
+    },
+    {
+        "name": "Hare gliders",
+        "description": "Tired of being everybody's prey animal? Rise above it all with hare gliders. Will carry most small prey, up to 30lbs. Not available for cats.",
+        "_id": 10,
+        "price": 7.00
+    },
+    {
+        "name": "Bat Mobile",
+        "description": "Not mobile as in vehicle, but mobile as in a hanging sculpture -but for bats! These mobiles are mounted on poles that stands on the ground and circulate upwards - looks great in any bat cave!",
+        "_id": 11,
+        "price": 2.80
+    },
+    {
+        "name": "Dog Ladders",
+        "description": "Does your dog want on the roof, but can't get up there? Now he can with dog ladders!",
+        "_id": 12,
+        "price": 3.60
+    }
+
+]

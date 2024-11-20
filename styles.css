@@ -1,0 +1,27 @@
+ .images {
+max-width: 300px;
+}
+body{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.productCard {
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 3px solid dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 750px;
+}
+
+dialog {
+    top: 33vh;
+    background-color: tomato;
+} 
